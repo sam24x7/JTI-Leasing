@@ -1,0 +1,9 @@
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\bin\Debug\JTIFinance.exe.config
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\obj\Debug\JTIFinance.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\obj\Debug\JTIFinance.GUI.HeaderTest.resources
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\obj\Debug\JTIFinance.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\bin\Debug\JTIFinance.exe
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\bin\Debug\JTIFinance.pdb
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\obj\Debug\JTIFinance.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\obj\Debug\JTIFinance.exe
+c:\users\sam\documents\visual studio 2012\Projects\JTIFinance\JTIFinance\obj\Debug\JTIFinance.pdb
